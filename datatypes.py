@@ -1,0 +1,15 @@
+xy = "Hello World"	#str	
+xz = 20	#int	
+xc = 20.5	#float	
+xx = 1j	#complex	
+xg = ["apple", "banana", "cherry"]	#list	
+xh = ("apple", "banana", "cherry")	#tuple	
+xj = range(6)	#range	
+xk = {"name" : "John", "age" : 36}	#dict	
+xl = {"apple", "banana", "cherry"}	#set	
+xo = frozenset({"apple", "banana", "cherry"})	#frozenset	
+xp = True	#bool	
+xt = b"Hello"	#bytes	
+xq = bytearray(5)	#bytearray	
+xw = memoryview(bytes(5))	#memoryview	
+xe = None #Nonetype
